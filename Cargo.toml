@@ -1,0 +1,19 @@
+[package]
+name = "flappy-dragon"
+version = "0.0.0"
+authors = ["Jan David Nose <jandavid@6a64.com>"]
+edition = "2018"
+
+description = "Flappy Dragon game from the book Hands-on Rust"
+repository = "https://github.com/jdno/flappy-dragon"
+license = "MIT OR Apache-2.0"
+keywords = [
+    "game",
+    "gamedev",
+]
+categories = [
+    "games"
+]
+publish = false
+
+[dependencies]
